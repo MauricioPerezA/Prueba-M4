@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TODO APP</string>
+    <string name="todo_title">Bienvenido, Mauricio</string>
+    <string name="todo_categories">Categorias:</string>
+    <string name="todo_tasks">Tareas:</string>
+    <string name="todo_dialog_add_task">Escribe aquí:</string>
+    <string name="todo_option_teoc">Trabajo</string>
+    <string name="todo_option_app">Aplicaciones</string>
+    <string name="todo_option_other">Otros</string>
+    <string name="todo_botton_crete">CREAR TAREA</string>
+</resources>
